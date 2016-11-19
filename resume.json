@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Mark Walford",
+    "label": "Systems Administrator",
+    "picture": "test.jpg",
+    "email": "mark@kramit.net.au",
+    "phone": "",
+    "website": "http://kramit.net.au",
+    "summary": "TODO",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "London",
+      "countryCode": "UK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "link",
+        "url": "https://twitter.com/mjwalf"
+      },
+      {
+        "network": "GitHub",
+        "username": "mjwalf",
+        "url": "https://github.com/mjwalf"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Hailo",
+      "position": "Systems Administrator",
+      "website": "https://hailoapp.com",
+      "startDate": "2015-06-01",
+      "endDate": "2017-03-03",
+      "summary": "Hailo is a taxi app",
+      "highlights": [
+        "platform",
+        "technology",
+        "reliability"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Deakin University",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2003-06-01",
+      "endDate": "2006-01-01",
+      "gpa": "",
+      "courses": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "2003-06-01",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Linux",
+      "level": "Skilled",
+      "keywords": [
+        "Config",
+        "Monitoring",
+        "Hardening"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": [
+        "making cruft",
+        "hiding cruft",
+        "finding cruft"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Golf",
+        "Cricket",
+        "Motor Racing"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "dbnegative",
+      "reference": "dont be negative"
+    }
+  ]
+}
