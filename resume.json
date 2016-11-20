@@ -44,7 +44,31 @@
         "technology",
         "reliability"
       ]
+    },
+    {
+      "company": "Solo App Project",
+      "position": "Engineer",
+      "website": "",
+      "startDate": "2016-10-01",
+      "summary": "An app centered around solving a very annoying problem we all face we out with friends or family",
+      "highlights": [
+        "Event driven architecture built in Google Compute Engine (GCE)",
+        "Utilising Google Cloud Functions to access Google APIs",
+        "Overcoming the challenge of completely new platform and programming language"
+      ]
+    },
+    {
+      "company": "Multimode IT",
+      "position": "Systems Administrator",
+      "website": "",
+      "startDate": "2010-01-27",
+      "endDate": "2015-05-20",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
     }
+    
   ],
   "education": [
     {
@@ -88,12 +112,38 @@
       ]
     },
     {
+      "name": "Automation",
+      "level": "Skilled",
+      "keywords": [
+        "Ansible",
+        "Terraform",
+        "Puppet"
+      ]
+    },
+    {
+      "name": "Continuous Intergration",
+      "level": "Entry Level",
+      "keywords": [
+        "Jenkins",
+        "CircleCI"
+      ]
+    },
+    {
       "name": "DevOps",
       "level": "Master",
       "keywords": [
         "making cruft",
         "hiding cruft",
         "finding cruft"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "level": "Adept",
+      "keywords": [
+        "Exchange",
+        "Hyper-V",
+        "ADFS"
       ]
     }
   ],
