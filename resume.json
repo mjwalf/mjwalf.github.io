@@ -4,12 +4,12 @@
     "label": "Systems Administrator",
     "picture": "test.jpg",
     "email": "mjwalf@thewalfords.id.au",
-    "phone": "",
-    "website": "http://kramit.net.au",
-    "summary": "TODO",
+    "phone": "07555555555",
+    "website": "http://www.kramit.net.au",
+    "summary": "A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems; especially multi-user computers, such as servers. The system administrator seeks to ensure that the uptime, performance, resources, and security of the computers he or she manages meet the needs of the users, without exceeding the budget. To meet these needs, a system administrator may acquire, install, or upgrade computer components and software; provide routine automation; maintain security policies; troubleshoot; train or supervise staff; or offer technical support for projects.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "Westminster",
+      "postalCode": "SW1",
       "city": "London",
       "countryCode": "UK",
       "region": ""
@@ -17,13 +17,18 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "link",
+        "username": "@mjwalf",
         "url": "https://twitter.com/mjwalf"
       },
       {
         "network": "GitHub",
         "username": "mjwalf",
         "url": "https://github.com/mjwalf"
+      },
+      {
+        "network": "Linkedin",
+        "username": "mwalford",
+        "url": "https://uk.linkedin.com/in/mwalford"
       }
     ]
   },
@@ -33,7 +38,6 @@
       "position": "Systems Administrator",
       "website": "https://hailoapp.com",
       "startDate": "2015-06-01",
-      "endDate": "2017-03-03",
       "summary": "Hailo is a taxi app",
       "highlights": [
         "platform",
