@@ -121,11 +121,10 @@
       ]
     },
     {
-      "name": "Continuous Intergration",
+      "name": "CI",
       "level": "Entry Level",
       "keywords": [
-        "Jenkins",
-        "CircleCI"
+        "Jenkins"
       ]
     },
     {
